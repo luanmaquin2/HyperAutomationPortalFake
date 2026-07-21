@@ -1,1 +1,1 @@
-
+O processo de Cadastro de Novo Cliente inicia com o acesso ao Portal Fake, onde são localizadas as informações do cliente. Em seguida, os dados do formulário são extraídos e utilizados para gerar automaticamente uma ficha de cadastro no Microsoft Word. Após a criação do documento, a ficha é enviada por e-mail ao cliente ou ao setor responsável para registro e validação. Com o envio concluído, o processo é encerrado. Esse fluxo garante a padronização das informações, reduz o tempo de processamento e minimiza erros decorrentes da execução manual das atividades.
