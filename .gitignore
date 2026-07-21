@@ -1,0 +1,27 @@
+# Ambiente virtual
+botc/
+.botc/
+
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de configuração do Python
+.python-version
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Arquivos de ambiente
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
