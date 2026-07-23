@@ -186,10 +186,10 @@ O robô irá:
 
 | Integrante | Responsabilidade |
 |------------|------------------|
-| Integrante 1 | Modelagem BPMN |
-| Integrante 2 | Extração dos Dados |
-| Integrante 3 | Documento e E-mail |
-| Integrante 4 | GitFlow e GitHub |
+| Luan Pinhheiro | Modelagem BPMN |
+| Éricle Costa | Extração dos Dados |
+| Daniele Greice | Documento e E-mail |
+| Luã Maquiné | GitFlow e GitHub |
 | Integrante 5 | QA e Testes |
 
 ---
